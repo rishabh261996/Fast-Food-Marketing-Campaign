@@ -20,6 +20,20 @@ A fast-food chain plans to add a new item to its menu. However, they are still u
 ![image](https://user-images.githubusercontent.com/82542269/181356211-7f047f6b-22e3-48c0-8465-45bafa2d5734.png)
 
 
+From the above graph , we find out there is promotion_2 performs least of three.
+
+While there remains doubt in case of promotion_1 and promotion_3. To get more evidence we will test it through the hypothesis test:
+
+Ho : THere is no difference between salesinthoushand between promotion_1 and promotion_3.
+
+Ha: There is a significance difference between sales_in_thousand between promotion_1 and promotion_3.
+
+From the hypothesis testing,  it was found that promotion 2 works worst for all size of markets. While there appears to be no difference in average sales from promotion 1 and promotion 3.
+
+Now,we will dive further, like week wise promotion impact on sales.
+
+
+
 
 ##  How promotion impacts the sales based on age of store?
 
@@ -28,6 +42,10 @@ A fast-food chain plans to add a new item to its menu. However, they are still u
 ![image](https://user-images.githubusercontent.com/82542269/181355737-d9cc0a12-6a7f-42c3-a5d4-93b9a35e473b.png)
 
 ![image](https://user-images.githubusercontent.com/82542269/181355907-75787d21-504e-4f23-95d2-bccdf7871789.png)
+
+From the above, we can see that there are more number of firms that are new. (mainly below 10 years)
+
+
 
 
 ## which promotion performs well over others when we compare it over location wise.
@@ -39,6 +57,7 @@ A fast-food chain plans to add a new item to its menu. However, they are still u
 
 ![image](https://user-images.githubusercontent.com/82542269/181356073-d52f95f9-d872-48e4-9b99-31c15713a9db.png)
 
+The promotion_2 performs worst for all location categories. Whereas, promotion 1 performs best.
 
 # Conclusion:
 
