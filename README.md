@@ -59,6 +59,17 @@ From the above, we can see that there are more number of firms that are new. (ma
 
 The promotion_2 performs worst for all location categories. Whereas, promotion 1 performs best.
 
+
+### Dashboard
+
+The dashboard showing analysis of each promotion method is illustrated below:
+
+![image](https://user-images.githubusercontent.com/82542269/214531417-5b91c20f-1a2f-4803-8b12-9284fbf0def4.png)
+
+
+
+
+
 # Conclusion:
 
 
